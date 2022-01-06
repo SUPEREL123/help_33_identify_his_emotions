@@ -1,0 +1,17 @@
+body  {
+  background-image: url("33_reading_book.jpeg");
+  background-size: cover;
+  color: #FF4848;
+}
+
+#correct_word {
+	color: #69DADB;
+}
+
+#try_again {
+	background-color: #FFDAB9;
+}
+
+#cry {
+	  width: 250px;
+}
